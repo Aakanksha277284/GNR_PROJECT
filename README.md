@@ -1,0 +1,1 @@
+This project implements core image-processing and enhancement algorithms from scratch on a hyperspectral image cube, including log transform, gamma correction, contrast stretching, histogram equalization, and basic convolution filters such as mean smoothing and gradient-based edge detection."
